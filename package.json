@@ -1,0 +1,16 @@
+{
+  "name": "ts-webpack-template",
+  "version": "0.0.1",
+  "description": "modern web project scaffold",
+  "main": "./dist/index.js",
+  "author": "Ahn Heejong",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^8.0.31",
+    "@types/webpack": "^3.0.12",
+    "awesome-typescript-loader": "^3.2.3",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  }
+}
