@@ -7,10 +7,10 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^8.0.31",
-    "@types/webpack": "^3.0.12",
-    "awesome-typescript-loader": "^3.2.3",
+    "@types/webpack": "^3.8.2",
+    "awesome-typescript-loader": "^3.4.1",
     "ts-node": "^3.3.0",
-    "typescript": "^2.5.3",
-    "webpack": "^3.6.0"
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
   }
 }
